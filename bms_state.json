@@ -6,7 +6,7 @@
       "date": "20260727",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "0"
+      "status": "1"
     },
     "ALUC|3288|20260727|DIRECTOR CHOICE": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -118,7 +118,7 @@
       "date": "20260727",
       "cat": "GOLD",
       "price": "295.00",
-      "status": "0"
+      "status": "1"
     },
     "ALUC|3340|20260727|GOLD.": {
       "venue": "ALLU Cinemas: Kokapet",
