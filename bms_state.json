@@ -6,7 +6,7 @@
       "date": "20260814",
       "cat": "3D PLATINUM",
       "price": "450.00",
-      "status": "0"
+      "status": "2"
     },
     "ALUC|3758|20260814|3D GOLD": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -22,7 +22,7 @@
       "date": "20260814",
       "cat": "3D DIRECTOR CHOICE",
       "price": "450.00",
-      "status": "0"
+      "status": "2"
     },
     "ALUC|3758|20260814|3D GOLD.": {
       "venue": "ALLU Cinemas: Kokapet",
@@ -30,7 +30,7 @@
       "date": "20260814",
       "cat": "3D GOLD.",
       "price": "395.00",
-      "status": "3"
+      "status": "2"
     }
   },
   "dates": {
